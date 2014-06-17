@@ -1,0 +1,19 @@
+{
+  "name": "automation-test",
+  "version": "0.0.0",
+  "description": "Project to check dronio+sauce for automated unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rodneyrehm/automation-test.git"
+  },
+  "author": "Rodney Rehm <rodney.rehm@medialize.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodneyrehm/automation-test/issues"
+  },
+  "homepage": "https://github.com/rodneyrehm/automation-test"
+}
